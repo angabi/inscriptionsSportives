@@ -117,6 +117,8 @@ public class EquipeTest {
 		public void testToString() {
 			
 //A FAIRE
+			ogcnice.add(Dante);
+			assertNotNull()
 			
 			
 		}
