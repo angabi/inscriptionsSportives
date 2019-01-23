@@ -118,7 +118,7 @@ public class EquipeTest {
 			
 //A FAIRE
 			ogcnice.add(Dante);
-			assertNotNull()
+			assertNotNull(Dante.toString());
 			
 			
 		}
